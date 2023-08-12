@@ -1,5 +1,3 @@
-🌱 Currently learning JavaScript
-
 
 <!---
 Abdl-kerim/Abdl-kerim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
