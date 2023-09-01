@@ -1,2 +1,2 @@
-![Logotipo](./assets/star-min.png)
+![Logotipo](./assets/star.png)
 -hi
