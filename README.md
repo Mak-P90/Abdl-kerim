@@ -1,1 +1,1 @@
-![Logotipo](0.png)
+![Logotipo](6.png)
