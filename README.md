@@ -57,9 +57,9 @@ Además de ser desarrollador, administro **todos mis sistemas**. Me encargo de:
 
 ## 📈 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Abdl-kerim&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdl-kerim&layout=compact&theme=radical)
-![Visitas al perfil](https://komarev.com/ghpvc/?username=TuUsuario&label=VISITAS%20AL%20PERFIL&color=blue)
+## 📊 Mi actividad reciente
+
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=TuUsuario&theme=react-dark)
 
 ## 🌱 Actualmente aprendiendo
 
@@ -81,6 +81,14 @@ Ah, y si te preguntas sobre mi disponibilidad: soy una **criatura nocturna**. Si
 Y lo más importante: **todo lo que hago es gratuito**. Las plataformas que desarrollo están diseñadas para que cualquiera pueda acceder sin coste, ya sea para profesionales o usuarios finales. ¡Siempre buscando aportar algo más!
 
 ## 📷 Mi blog de viajes
-
-Además, me encanta viajar y compartir mis experiencias. Subo fotos y vídeos de lugares de interés, rutas de senderismo y visitas a galerías de arte o teatro en mi blog.
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white)](https://www.instagram.com/moroloko23)
+Además, me encanta viajar y compartir mis experiencias. Subo fotos y vídeos de lugares de interés, rutas de senderismo y visitas a galerías de arte o teatro en mi blog.
+
+## 💡 Hacks y Trucos
+
+- **RabbitMQ**: Para maximizar el throughput y evitar la saturación de memoria, utiliza colas **duraderas** junto con un ajuste fino de los límites de procesamiento por cola.
+- **Apache Kafka**: Implementar **particiones** en los temas puede mejorar significativamente el rendimiento cuando gestionas grandes cantidades de mensajes simultáneamente.
+- **Docker**: Usa **multi-stage builds** para reducir el tamaño de las imágenes, lo que hace que el despliegue sea más rápido y ligero.
+- **Prometheus**: Configura **alertas inteligentes** utilizando reglas basadas en thresholds dinámicos, en lugar de valores estáticos, para evitar notificaciones falsas o irrelevantes.
+- **Grafana**: Automatiza tus dashboards conectándolos a **templates** y variables, lo que permite que se adapten a múltiples entornos sin tener que rediseñar todo desde cero.
+
