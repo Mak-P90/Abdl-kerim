@@ -44,6 +44,11 @@ Además de ser desarrollador, administro **todos mis sistemas**. Me encargo de:
 ### 1. [EmeritaCode](https://www.emeritacode.com/)
 - Plataforma avanzada en 10 idiomas que ofrece noticias tecnológicas, un foro, y un personalizador de componentes CSS gratuito para el público. ¡Mejorándose día a día!
 
+## 🚧 Proyectos en progreso
+
+- [ ] SportKabra - Conectar a profesionales con clientes (50% completado)
+- [ ] EatsyTech - Gestión de establecimientos (30% completado)
+
 ### 2. [SportKabra](https://www.sportkabra.com/)
 - Plataforma **totalmente gratuita** que permitirá conectar a profesionales con clientes finales de forma **integral** y **centralizada**. ¡Únete a la waiting list!
 
@@ -54,7 +59,7 @@ Además de ser desarrollador, administro **todos mis sistemas**. Me encargo de:
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Abdl-kerim&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdl-kerim&layout=compact&theme=radical)
-![GitHub Skyline](https://skyline.github.com/Abdl-kerim/2024)
+![Visitas al perfil](https://komarev.com/ghpvc/?username=TuUsuario&label=VISITAS%20AL%20PERFIL&color=blue)
 
 ## 🌱 Actualmente aprendiendo
 
