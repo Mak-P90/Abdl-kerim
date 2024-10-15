@@ -3,3 +3,4 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Fullstack;Experto+en+GitHub;Siempre+Aprendiendo)
