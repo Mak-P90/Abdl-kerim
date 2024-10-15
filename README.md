@@ -80,10 +80,6 @@ Ah, y si te preguntas sobre mi disponibilidad: soy una **criatura nocturna**. Si
 
 Y lo más importante: **todo lo que hago es gratuito**. Las plataformas que desarrollo están diseñadas para que cualquiera pueda acceder sin coste, ya sea para profesionales o usuarios finales. ¡Siempre buscando aportar algo más!
 
-## 📷 Mi blog de viajes
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white)](https://www.instagram.com/moroloko23)
-Además, me encanta viajar y compartir mis experiencias. Subo fotos y vídeos de lugares de interés, rutas de senderismo y visitas a galerías de arte o teatro en mi blog.
-
 ## 💡 Hacks y Trucos
 
 - **RabbitMQ**: Para maximizar el throughput y evitar la saturación de memoria, utiliza colas **duraderas** junto con un ajuste fino de los límites de procesamiento por cola.
