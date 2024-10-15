@@ -59,7 +59,7 @@ Además de ser desarrollador, administro **todos mis sistemas**. Me encargo de:
 
 ## 📊 Mi actividad reciente
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=TuUsuario&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abdl-kerim&theme=react-dark)
 
 ## 🌱 Actualmente aprendiendo
 
