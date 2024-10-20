@@ -67,8 +67,8 @@ Además de ser desarrollador, administro **todos mis sistemas**. Me encargo de:
 
 ## 📫 Cómo contactarme
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white)](https://www.instagram.com/abdel_kerim01)
-[![Instagram Empresa](https://img.shields.io/badge/-Instagram%20(empresa)-E4405F?logo=Instagram&logoColor=white)](https://www.instagram.com/emeritacode)
+[![Instagram](https://img.shields.io/badge/-Instagram-381a06?logo=Instagram&logoColor=white)](https://www.instagram.com/abdel_kerim01)
+[![Instagram EmeritaCode](https://img.shields.io/badge/-Instagram%20(empresa)-381a06?logo=Instagram&logoColor=white)](https://www.instagram.com/emeritacode)
 
 ## 🔥 Datos curiosos sobre mí
 
