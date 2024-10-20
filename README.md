@@ -37,7 +37,7 @@ Además de ser desarrollador, administro **todos mis sistemas**. Me encargo de:
 
 ## 🏆 Trofeos de GitHub
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=TuUsuario&theme=algolia)
+![Trophies](https://github-profile-trophy.vercel.app/?username=TuUsuario&theme=dark_lover)
 
 ## ⚡ Proyectos destacados
 
