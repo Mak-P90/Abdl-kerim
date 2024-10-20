@@ -57,9 +57,9 @@ Además de ser desarrollador, administro **todos mis sistemas**. Me encargo de:
 
 ## 📈 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Abdl-kerim&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=ff0f)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Abdl-kerim&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdl-kerim&layout=donut-vertical&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=ff0f)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdl-kerim&layout=donut-vertical&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ## 🌱 Actualmente aprendiendo
 
